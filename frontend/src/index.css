@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-college-50: #f0f4f9;
+  --color-college-100: #deecfc;
+  --color-college-200: #b9daf9;
+  --color-college-300: #7ebcf4;
+  --color-college-400: #3c9ced;
+  --color-college-500: #157ce1;
+  --color-college-600: #0f62bc;
+  --color-college-700: #0c4e97;
+  --color-college-800: #0a427f;
+  --color-college-900: #08376b;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #f3f4f6; /* light gray */
+  color: #1f2937; /* dark gray */
+}

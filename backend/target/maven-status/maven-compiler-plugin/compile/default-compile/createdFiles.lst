@@ -1,0 +1,17 @@
+com\college\complaints\service\UserService.class
+com\college\complaints\service\ComplaintService.class
+com\college\complaints\entity\Complaint.class
+com\college\complaints\entity\User.class
+com\college\complaints\ComplaintApplication.class
+com\college\complaints\controller\AuthController.class
+com\college\complaints\repository\ComplaintRepository.class
+com\college\complaints\security\JwtTokenProvider.class
+com\college\complaints\security\JwtAuthenticationFilter.class
+com\college\complaints\controller\ComplaintController$UpdateComplaintRequest.class
+com\college\complaints\controller\ComplaintController.class
+com\college\complaints\security\UserDetailsServiceImpl.class
+com\college\complaints\security\UserPrincipal.class
+com\college\complaints\security\WebSecurityConfig.class
+com\college\complaints\repository\UserRepository.class
+com\college\complaints\controller\AuthController$LoginRequest.class
+com\college\complaints\entity\Role.class
